@@ -2,27 +2,22 @@
   "schemaVersion": 1,
   "id": "turtlesoup",
   "version": "${version}",
-
   "name": "Turtle Soup",
-  "description": "Turtle soup.",
+  "description": "Turtle soup for the soul.",
   "authors": [
     "tropicbliss"
   ],
   "contact": {
-    "homepage": "https://fabricmc.net/",
     "sources": "https://github.com/tropicbliss/turtle-soup"
   },
-
   "license": "MIT",
   "icon": "assets/turtlesoup/icon.png",
-
   "environment": "*",
   "entrypoints": {
     "main": [
       "com.tropicbliss.turtlesoup.TurtleSoupMod"
     ]
   },
-
   "depends": {
     "fabricloader": ">=0.11.3",
     "fabric": "*",
