@@ -15,9 +15,9 @@ public class Foods {
   public static FoodComponent TURTLE_PIZZA = new FoodComponent.Builder().hunger(14)
       .saturationModifier(2.8F).statusEffect(new StatusEffectInstance(
           StatusEffects.REGENERATION, 5), 1)
-      .statusEffect(new StatusEffectInstance(StatusEffects.REGENERATION, 100, 1), 1.0F)
-      .statusEffect(new StatusEffectInstance(StatusEffects.ABSORPTION, 2400, 0), 1.0F)
-      .statusEffect(new StatusEffectInstance(StatusEffects.SLOWNESS, 600, 0), 1.0F).build();
+      .statusEffect(new StatusEffectInstance(StatusEffects.REGENERATION, 100, 1), 1)
+      .statusEffect(new StatusEffectInstance(StatusEffects.ABSORPTION, 2400, 0), 1)
+      .statusEffect(new StatusEffectInstance(StatusEffects.SLOWNESS, 600, 0), 1).build();
   public static FoodComponent MILK_STEAK = new FoodComponent.Builder().hunger(8)
       .saturationModifier(0.8F).meat().build();
 }
