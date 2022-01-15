@@ -5,5 +5,7 @@
   "item.turtlesoup.turtle_pizza": "Turtle Pizza",
   "item.turtlesoup.milk_steak": "Milk Steak",
   "itemGroup.turtlesoup.turtlesoup": "Turtle Soup",
-  "item.turtlesoup.turtle_pizza.tooltip": "You only made this because of the word 'Pizza'!"
+  "item.turtlesoup.turtle_pizza.tooltip": "You only made this because of the word 'Pizza'!",
+  "item.turtlesoup.turtle_soup.tooltip": "You're part of the big leagues now, kid.",
+  "item.turtlesoup.turtle_meat.tooltip": "Tastes of the Ocean."
 }
